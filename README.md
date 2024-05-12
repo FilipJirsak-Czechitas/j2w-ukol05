@@ -4,7 +4,7 @@ Vytvoř stránku pro registraci na letní dětský tábor. Stránka bude obsahov
 zobrazí se stránka s rekapitulací zadaných údajů. Pokud bude ve formuláři nějaká chyba, zobrazí se znovu formulář, údaje zadané uivatelem v něm budou vyplněné
 a u políček s chybou bude vypsána chybová zpráva.  
 
-1. Udělej fork zdrojového repository do svého účtu na GitHubu, případně pokračuj ve svém úkolu z předchozí lekce.
+1. Použij toto repository jako šablonu (Use this template), ze které si vytvoříš repository ve svém účtu na GitHubu, případně pokračuj ve svém úkolu z lekce.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 1. Spusť si naklonovanou aplikaci a otevři v prohlížeči stránku [http://localhost:8080/](http://localhost:8080/). Zobrazí se stránka s textem „TODO“.
 1. Vytvoř přepravku (Java Bean) pro uložení údajů formuláře `RegistraceForm`. Pohlaví a zvolený turnus ukládej jako `String`, pro turnus zvol nějaký kód – např. `turnus-1`, `turnus-2` apod.
